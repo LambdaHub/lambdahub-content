@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "./node_modules/coffee-script/bin/coffee build.coffee"
+  },
+  "dependencies": {
+    "coffee-script": "1.6.3"
+  }
+}
