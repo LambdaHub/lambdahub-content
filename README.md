@@ -1,3 +1,5 @@
+[![Build Status](https://secure.travis-ci.org/LambdaHub/lambdahub-content.png)](http://travis-ci.org/LambdaHub/lambdahub-content)
+
 ### Copyright
 
 Copyright &copy; LambdaHub contributors
